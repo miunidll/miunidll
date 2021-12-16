@@ -6,7 +6,7 @@ I currently work at Cella-V Telematics as a software developer.
 
 I mainly code in C#, Java, HTML, MySql, Python, PHP, Android, and a little bit of C.
 
-I also make games as a side hustle in Unreal Engine (best engine ever)
+I also make games as a side hustle in Unreal Engine aka the best engine ever.
 
 ## Projects
 
