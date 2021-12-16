@@ -1,6 +1,6 @@
 # About me
 
-Hi, my name is Daniel, Also known as miuni_, and i'm a 15 year old dev from Israel.\n
+Hi, my name is Daniel, Also known as miuni_, and i'm a 15 year old dev from Israel.
 I code in C#, Java, HTML, MySql, Python, PHP, and a little bit of C.
 
 ## Projects
