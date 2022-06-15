@@ -19,7 +19,7 @@ I also make games as a side hustle in Unreal Engine aka the best engine ever.
  
 ## Where to find me
 
- - Discord: <code> miuni_#0948 </code>
+ - Discord: <code> miuni_#1067 </code>
  - Twitter: <code> @danieledits360 </code>
  
  ## Langauges
